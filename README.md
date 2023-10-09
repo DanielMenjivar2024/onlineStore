@@ -52,5 +52,5 @@ cd onlineStore
 npm install
 ````
 
-# Avances 
-Nota 10
+## Avances 
+- Nota 10
